@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Herobrine 👋
+# Hi, I'm HerobrineSiva 👋
 
 ### Student • Programmer • Curious Learner
 
