@@ -100,7 +100,7 @@ As I explore more topics and build more projects, this profile will grow with me
 ## 🤝 Connect With Me
 
 - GitHub: [@HerobrineSiva](https://github.com/HerobrineSiva)
-- LinkedIn: [Click Here to Visit My Linkedin Profile](www.linkedin.com/in/sivasakthirajans)
+- LinkedIn: [Click Here to Visit My Linkedin Profile](https://www.linkedin.com/in/sivasakthirajans)
 - Email: [Want to Mail Click Here](mailto:sivasakthirajanssiva@gmail.com)
 
 *Replace the LinkedIn and email placeholders with your preferred contact details.*
