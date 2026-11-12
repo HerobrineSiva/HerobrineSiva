@@ -93,7 +93,7 @@ As I explore more topics and build more projects, this profile will grow with me
 
 ## 📊 GitHub Statistics
 
-![Herobrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerobrineSiva&show_icons=true&hide_title=true&hide_rank=true&theme=default)
+![Herobrine's GitHub stats](https://commit-history.com/herobrinesiva)
 
 *Statistics reflect activity available from GitHub; they’re a snapshot, not a measure of skill.*
 
